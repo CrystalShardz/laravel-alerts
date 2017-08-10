@@ -1,0 +1,18 @@
+{
+    "name": "crystalshardz/laravel-alerts",
+    "description": "Proivdes alerts for Laravel projects using the Twitter Bootstrap framework.",
+    "homepage": "https://github.com/CrystalShardz/laravel-alerts",
+    "authors": [
+        {
+            "name": "Dragon Development",
+            "email": "hello@dragondev.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Crystalshardz\\LaravelAlerts\\": "src/"
+        }
+    }
+}
